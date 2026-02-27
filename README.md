@@ -108,4 +108,4 @@ QR_code/
 
 ## 许可证
 
-MIT License
+LGPL-2.1 license
